@@ -1,6 +1,6 @@
 name: Jonathan kemp
 favicon: null
-layout_spectrum: 0.10546350991353393
+layout_spectrum: 1
 typography_spectrum: 0.2511552826035768
 title: Jonathan Kemp
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.17444785963743925
+  brandStrength: 0.5
   lightness: 0.09636808047071099
   saturation: 0.6818913973402232
   rhythmicContrast: 0.9101847300771624
